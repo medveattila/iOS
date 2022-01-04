@@ -3,4 +3,4 @@ Note: These are developed for iOS 13.
 
 Quizzler: This is a multiple choice quiz game.
 
-Clima: This is a weather in wich you can request weather data based on location.
+Egg timer: This is an egg timer app, where you can set that how hard would you like your egg. 
